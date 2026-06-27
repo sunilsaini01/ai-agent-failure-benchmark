@@ -230,7 +230,7 @@ Full detail, including exact per-category and per-domain diversity figures: [`do
 ```bibtex
 @dataset{ai_agent_failure_benchmark_2026,
   title        = {AI Agent Failure Benchmark Dataset},
-  author       = {<Your Name or Organization>},
+  author       = {Sunil Kumar, IIIT Lucknow},
   year         = {2026},
   version      = {1.0.0},
   note         = {1,500 synthetic, taxonomy-labeled examples of AI agent and LLM
