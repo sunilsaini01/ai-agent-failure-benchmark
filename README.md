@@ -235,7 +235,7 @@ Full detail, including exact per-category and per-domain diversity figures: [`do
   version      = {1.0.0},
   note         = {1,500 synthetic, taxonomy-labeled examples of AI agent and LLM
                   failures across 5 domains and 12 failure categories},
-  url          = {https://github.com/<your-username>/ai-agent-failure-benchmark}
+  url          = {https://github.com/sunilsaini01/ai-agent-failure-benchmark}
 }
 ```
 
