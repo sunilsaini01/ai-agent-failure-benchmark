@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AI Agent Failure Benchmark Dataset"
+version: 1.0.0
+date-released: 2026-06-27
+type: dataset
+authors:
+  - name: "<Your Name or Organization>"
+license: Apache-2.0
+repository-code: "https://github.com/<your-username>/ai-agent-failure-benchmark"
+url: "https://github.com/<your-username>/ai-agent-failure-benchmark"
+abstract: >
+  A taxonomy-driven benchmark of 1,500 synthetic, labeled examples of AI agent
+  and LLM failures, spanning 5 task domains (Coding, Mathematics, RAG/QA,
+  Planning, Customer Support) and 12 root-cause failure categories
+  (e.g. Hallucination, Reasoning Failure, Tool Use Failure, Safety & Alignment
+  Failure), with severity ratings and rationale annotations.
+keywords:
+  - llm-evaluation
+  - ai-agents
+  - benchmark-dataset
+  - failure-analysis
+  - nlp
+  - synthetic-data
+  - ai-safety
